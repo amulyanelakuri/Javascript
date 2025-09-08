@@ -1,8 +1,13 @@
 /*concatination*/
-let name = "Arjun";
-let age = 23;
+let name = "Stranger Things";
+let year = 2016;
 
-let message = "my name is "+name+ " and i am " + age;
+let message = "my name is "+name+ " and i am released " + age;
 console.log(message);
 
+/* Concat */
+let firstName = "Mike";
+let lastName = "Eleven";
+let fullName = firstName + " " + lastName;
+console.log(fullName);
 
